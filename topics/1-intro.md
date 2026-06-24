@@ -25,6 +25,8 @@ We can analyze algorithms from multiple lenses:
 - approximately two weeks on greedy, dynamic, and randomized algorithm design
 - rest of course shows applications in discrete combinatorial optimization (graph algorithms)
 - search, shortest paths, matching, flows
+- Writing point: writing, editing, revising
+  - In and out of class
 
 ## Writing: Structuring an argument
 
@@ -50,6 +52,8 @@ total count even. If the new person shakes hands with an odd number of existing
 people, exactly that many people shift from having an even count to an odd count, preserving the even
 total.
 
-### Example 2: Tetrominoes
+### Example 2: Trominoes
+
+
 
 ### Example 3: All Horses Are the Same Color
