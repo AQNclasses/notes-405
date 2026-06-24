@@ -50,6 +50,8 @@ total count even. If the new person shakes hands with an odd number of existing
 people, exactly that many people shift from having an even count to an odd count, preserving the even
 total.
 
-### Example 2: Tetrominoes
+### Example 2: Trominoes
+
+
 
 ### Example 3: All Horses Are the Same Color
