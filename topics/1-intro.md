@@ -18,6 +18,8 @@ We can analyze algorithms from multiple lenses:
 - most important thing is distinguishing constant time operations from non-constant time
 - everything measured in terms of input size
 
+## Types of Problems
+
 ## Course Structure
 
 - approximately two weeks on greedy, dynamic, and randomized algorithm design
