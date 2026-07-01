@@ -42,9 +42,15 @@ We will interleave discussions of computational complexity theory and formal met
 
 ## Computational Complexity
 
-## Intro to Greedy / Dynamic Programming: Rod cut problem
+## Types of Problems
 
-- see worksheet
+## Course Structure
+
+- approximately two weeks on greedy, dynamic, and randomized algorithm design
+- rest of course shows applications in discrete combinatorial optimization (graph algorithms)
+- search, shortest paths, matching, flows
+- Writing point: writing, editing, revising
+  - In and out of class
 
 ## Writing: Structuring an argument
 
